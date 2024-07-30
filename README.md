@@ -8,7 +8,7 @@ This project is a Pomodoro timer created using Python's Tkinter library. The Pom
 
 ## Features
 
-- Pomodoro Timer: 1-minute work period.
+- Pomodoro Timer: 25-minute work period.
 - Short Break: 5 minutes.
 - Long Break: 20 minutes.
 - User interface to track work and break periods.
