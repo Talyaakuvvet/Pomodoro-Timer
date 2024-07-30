@@ -2,7 +2,7 @@ Pomodoro Timer
 This project is a Pomodoro timer created using Python's Tkinter library. The Pomodoro Technique is a time management method that encourages working for a set period followed by a short break.
 
 Features
-Pomodoro Timer: 25-minute work period.
+Pomodoro Timer: 1-minute work period.
 Short Break: 5 minutes.
 Long Break: 20 minutes.
 User interface to track work and break periods.
